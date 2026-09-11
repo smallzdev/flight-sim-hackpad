@@ -1,4 +1,4 @@
-# flight-sim-hackpad
+# Smallz's Flight Sim Hackpad
 This is my flight sim hack pad files :)
 
 I designed this specifically for MSFS 2024. I've always wanted a keyboard like this, so why not make one?
